@@ -1,11 +1,9 @@
 <h1>Hi there, I'm Katie, an <a href="https://linkedin.com/in/katie-bowman-0a5331b6/">IT Professional 👋
 
  
+ <h2></h2>Currently, I'm focused on:</h2></h2>
 
-
- <h2>Currently, I'm focused on: </h2>
-
-- Gaining new sights on IT Fundamentals & IT Support at <a href="https://coursecareers.com">CourseCareers
+- Developing a deeper understanding of IT Fundamentals & IT Support at <a href="https://coursecareers.com">CourseCareers
 
   
 <h2>👩‍💻 Information Technology Projects:</h2>
