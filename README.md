@@ -16,7 +16,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/katieb11/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/katieb11/azure-network-protocols)
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Reach Out:</h2></h2>
 
 [![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/katie-bowman-0a5331b6/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:katieorme11@gmail.com)
