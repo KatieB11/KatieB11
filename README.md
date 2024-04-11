@@ -3,7 +3,7 @@
  
 
 
-  <h2></h2> Currently, I'm focused on:
+ <h2>Currently, I'm focused on: </h2>
 
 - Gaining new sights on IT Fundamentals & IT Support at <a href="https://coursecareers.com">CourseCareers
 
