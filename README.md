@@ -1,5 +1,10 @@
-<h1>Hi, I'm Katie, an <a href="https://linkedin.com/in/katie-bowman-0a5331b6/">IT Professional</a>👋</h1>
+<h1>Hi, I'm Katie, an <a href="https://linkedin.com/in/katie-bowman-0a5331b6/">IT Professional</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
+ What I'm Working On
+
+Currently, I'm focused on:
+
+- Gaining new sights on IT Fundamentals & IT Support at <a href="https://coursecareers.com">CourseCareers
 <h2>👩‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
