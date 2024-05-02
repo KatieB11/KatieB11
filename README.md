@@ -15,6 +15,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/katieb11/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/katieb11/azure-network-protocols)
+- <b>Personal Projects</b>
+   - [Azure Virtual Machines Set Up and Remote Desktop](https://github.com/KatieB11/VM-Setup-VM)
 
 <h2>🤳Reach Out:</h2></h2>
 
